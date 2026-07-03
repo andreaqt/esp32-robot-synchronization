@@ -102,5 +102,9 @@ void on_loop() {
 ---
 
 ````
-## Galeria
+## Hardware leds
 ![Descripción de la imagen](img/hardware_proyecto.jpeg)
+## Layout y entorno RoboDK
+![Descripción de la imagen](img/layout.png)
+![Descripción de la imagen](img/time_kpi.png)
+![Descripción de la imagen](img/entorno.png)
